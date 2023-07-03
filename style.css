@@ -1,0 +1,19 @@
+.d-item {
+    height: 500px;
+}
+
+.d-img {
+    height: 100%;
+    object-fit: cover;
+    filter: brightness(0.6);
+
+
+
+
+}
+html {
+    display: flex;
+    flex-direction: column;
+    min-height: 100%
+    background-color: #E1E2E3E;
+}
